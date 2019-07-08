@@ -1,2 +1,0 @@
-# learnjob
-just for learn
